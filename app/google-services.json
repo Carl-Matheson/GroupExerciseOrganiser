@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929809503904",
+    "firebase_url": "https://group-exercise-organiser.firebaseio.com",
+    "project_id": "group-exercise-organiser",
+    "storage_bucket": "group-exercise-organiser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929809503904:android:e335541e7d074107",
+        "android_client_info": {
+          "package_name": "com.mad.groupexerciseorganiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929809503904-8ttaprfhaugcpngmrvri72ejivvh3u4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.groupexerciseorganiser",
+            "certificate_hash": "a98eb00f6f07617479da127f358ffe7e6d5727a4"
+          }
+        },
+        {
+          "client_id": "929809503904-uabk4ruumri7t6ba54anb9vmqan2n74c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6GXCWOGCs1ZgAkaVg713kkYN5v-8UlBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929809503904-uabk4ruumri7t6ba54anb9vmqan2n74c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

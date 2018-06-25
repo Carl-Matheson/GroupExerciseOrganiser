@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Group Exercise Organiser</string>
+    <string name="action_settings">Settings</string>
+    <array name="sports">
+        <item>Soccer</item>
+        <item>Rugby Union</item>
+        <item>Basketball</item>
+        <item>Australian Football League</item>
+        <item>Touch Rugby</item>
+        <item>Oz Tag</item>
+        <item>Other</item>
+    </array>
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Mixed</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_of_user">Type of user</string>
+    <string name="coach">Coach</string>
+    <string name="player">Player</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="date">DATE</string>
+    <string name="time">TIME</string>
+    <string name="location">LOCATION</string>
+    <string name="name">NAME</string>
+    <string name="invited">Invited!</string>
+    <string name="status">STATUS</string>
+    <string name="remove">Remove</string>
+    <string name="gender_icon">gender_icon</string>
+    <string name="group_exercise_organiser">Group Exercise Organiser</string>
+    <string name="log_out">Log Out</string>
+    <string name="group_name">GROUP NAME</string>
+    <string name="group_category">GROUP CATEGORY</string>
+    <string name="register_prompt">Registering new user..</string>
+    <string name="emptyFields_prompt">Please make sure all fields are entered</string>
+    <string name="removed_prompt">Removed </string>
+    <string name="DatePickerDialog">DatePickerDialog</string>
+    <string name="TimePicker">TimePicker</string>
+    <string name="schedule_prompt">Creating a new schedule...</string>
+    <string name="invited_prompt">Invited </string>
+    <string name="denied">Permission Denied</string>
+    <string name="create_group_promt">Creating group...</string>
+    <string name="error_prompt">Error:</string>
+    <string name="schedule">SCHEDULE</string>
+    <string name="players">PLAYERS</string>
+    <string name="logging_prompt">Logging in...</string>
+    <string name="emptyField_prompt">Please make sure all fields are entered</string>
+    <string name="setup_prompt">You need to setup your account</string>
+    <string name="read_failed">The read failed:</string>
+    <string name="dbemail">email</string>
+    <string name="dbpassword">password</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="mixed">Mixed</string>
+    <string name="images">images</string>
+    <string name="jpg">.jpg</string>
+    <string name="sportdb">sport</string>
+    <string name="genderdb">gender</string>
+    <string name="uridb">uri</string>
+    <string name="namedb">name</string>
+    <string name="datedb">date</string>
+    <string name="timedb">time</string>
+    <string name="locationdb">location</string>
+    <string name="uiddb">uid</string>
+    <string name="empty"> </string>
+    <string name="firstname">firstName</string>
+    <string name="typedb">type</string>
+    <string name="statusdb">status</string>
+    <string name="firstName">firstName</string>
+    <string name="lastName">lastName</string>
+    <string name="emaildb">email</string>
+    <string name="uid">uid</string>
+    <string name="users">users</string>
+    <string name="inviteddb">invited</string>
+    <string name="playersdb">players</string>
+    <string name="readFailed_prompt">The read failed:</string>
+    <string name="groups">groups</string>
+    <string name="schedules">schedules</string>
+    <string name="sport">Sport:</string>
+    <string name="create_group">Create Group</string>
+    <string name="create_group_name">Group Name</string>
+    <string name="gender">Gender:</string>
+    <string name="schedule_name">Schedule name</string>
+    <string name="schedule_location">Location</string>
+    <string name="select_time">Select Time</string>
+    <string name="select_date">Select date</string>
+    <string name="TIME">TIME</string>
+    <string name="DATE">DATE</string>
+    <string name="create_schedule">Create Schedule</string>
+    <string name="correct">Image Cropped Correctly</string>
+    <string name="incorrect">Image Cropped Incorrectly</string>
+    <string name="group_successful">Group Created Successfully</string>
+    <string name="group_empty_details">Group Detail were empty</string>
+    <string name="log_schedule_created">Schedule Created!</string>
+    <string name="fragment_init">fragment init</string>
+    <string name="player_removed">player removed</string>
+    <string name="validating_password">Validating Password..</string>
+    <string name="login_successful">Successful Login!</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="account_failure">Account setup failure</string>
+    <string name="start_activity">Starting Activity</string>
+    <string name="group_selected">Group Selected</string>
+    <string name="user_invited">User Invited</string>
+    <string name="signup_failed">Sign-up Failed</string>
+    <string name="empty_string" />
+    <string name="already_invited_prompt">Already Invited</string>
+</resources>
